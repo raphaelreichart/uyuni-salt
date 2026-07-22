@@ -1,1 +1,0 @@
-# uyuni-salt-org1
